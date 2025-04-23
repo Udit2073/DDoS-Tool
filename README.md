@@ -88,7 +88,7 @@ Contributions to the project are welcome. If you would like to suggest an improv
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/Udit2073/DDoS-Tool/blob/main/LICENSE).
 
 ## Acknowledgments
 
